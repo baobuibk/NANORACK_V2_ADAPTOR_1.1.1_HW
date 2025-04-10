@@ -1,0 +1,117 @@
+\t (00:00:06) allegro 17.2 S052 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Thu Apr 10 09:37:42 2025
+\t (00:00:06)         Host=LAPTOP-F1OJ0CCU User=ACER Pid=18004 CPUs=12
+\t (00:00:06) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe D:\0_Working\1_Hardware\44_Adaptor_V111\NANORACK_V2_ADAPTOR_1.1.1_HW\2_Layout\Adaptor_V111.brd
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+   (00:00:07) Searching for nsWare programs v2.78
+   (00:00:07) 	NsWare directory found: D:/0_Working/1_Hardware/01_working_allegro/pcbenv/nsWare/
+   (00:00:07) 	NsWare programs must reside in this directory!
+   (00:00:07) function PinVia_Overlap_FinishEnterFun redefined
+   (00:00:07) function Find_Point_On_Line_From_Distant redefined
+   (00:00:07) function Find_Point_Quadrature_Line redefined
+   (00:00:07) function Line_Line_Intersect redefined
+   (00:00:07) function _getPinsNet redefined
+   (00:00:07) function _getBranchs redefined
+   (00:00:07) function _getPaths redefined
+   (00:00:07) function _get2PointsPath redefined
+   (00:00:07) function _checkElementList redefined
+   (00:00:07) function _getSurroundPoints redefined
+   (00:00:07) function _getListPointsLPaths redefined
+   (00:00:07) function _checkPathPoint redefined
+   (00:00:07) function _deleteElementList redefined
+   (00:00:07) function _checkElementList redefined
+   (00:00:07) function _deleteElementList redefined
+   (00:00:07) function Find_Point_On_Line_From_Distant redefined
+   (00:00:07) function Find_Point_Quadrature_Line redefined
+   (00:00:07) function Is_Point_On_List redefined
+   (00:00:07) function Line_Line_Intersect redefined
+   (00:00:07) function Line_Line_Distant redefined
+   (00:00:07) *Error* load: can't access file - "ansys.ilinit"
+   (00:00:07) ANSYS integration requires that the following environment variable be set:
+   (00:00:07)   SI_INTEGRATE4_DIR
+\t (00:00:08) Opening existing design...
+\i (00:00:08) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged Adaptor_V111
+\d (00:00:08) Design opened: D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/Adaptor_V111.brd
+\i (00:00:09) trapsize 14180
+\i (00:00:09) trapsize 14597
+\i (00:00:09) trapsize 11794
+\i (00:00:09) trapsize 12335
+\i (00:00:10) generaledit 
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 40.2195 31.7225
+\i (00:00:13) trapsize 6167
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 40.2195 31.8459
+\i (00:00:13) trapsize 3084
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 40.2195 31.8459
+\i (00:00:13) trapsize 1542
+\i (00:00:13) zoom in 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom in 40.2195 31.8459
+\i (00:00:13) trapsize 771
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 40.2195 31.9847
+\i (00:00:14) trapsize 385
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 40.3429 32.2468
+\i (00:00:14) trapsize 771
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 40.3429 32.2469
+\i (00:00:14) trapsize 1542
+\i (00:00:15) pick grid 44.5368 37.7051
+\t (00:00:15) last pick:  44.5000 37.7000
+\i (00:00:16) pick grid 50.3959 37.2117
+\t (00:00:16) last pick:  50.4000 37.2000
+\i (00:00:16) pick grid dbl 50.3959 37.2117
+\t (00:00:16) last pick:  50.4000 37.2000
+\i (00:00:22) text edit 
+\i (00:00:29) setwindow form.textedit
+\i (00:00:29) FORM textedit str 'ADAPTOR V1.2.0' 
+\i (00:00:29) FORM textedit done  
+\i (00:00:29) setwindow pcb
+\i (00:00:29) pick 0.0000 0.0000
+\t (00:00:29) Pick text to edit.
+\i (00:00:29) setwindow pcb
+\i (00:00:29) generaledit 
+\i (00:00:29) pick grid 46.7571 30.7359
+\t (00:00:29) last pick:  46.8000 30.7000
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 49.4708 36.0399
+\i (00:00:30) trapsize 3084
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 49.4707 36.0399
+\i (00:00:30) trapsize 6167
+\i (00:00:30) zoom out 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom out 49.4707 36.0398
+\i (00:00:30) trapsize 12335
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 49.2239 37.7668
+\i (00:00:30) trapsize 6167
+\i (00:00:30) zoom in 1 
+\i (00:00:30) setwindow pcb
+\i (00:00:30) zoom in 47.3737 41.7139
+\i (00:00:30) trapsize 3084
+\i (00:00:32) zoom out 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom out 56.8099 51.6435
+\i (00:00:32) trapsize 6167
+\i (00:00:33) prepopup 103.8059 66.8156
+\i (00:00:34) pick grid 99.8587 62.9917
+\t (00:00:34) last pick:  99.9000 63.0000
+\i (00:00:35) save 
+\i (00:00:37) fillin yes 
+\i (00:00:38) generaledit 
+\i (00:00:41) exit 
+\t (00:00:42)     Journal end - Thu Apr 10 09:38:18 2025
