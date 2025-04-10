@@ -1,0 +1,575 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : Adaptor_V120.brd                              )
+(    Software Version : 17.2S052                                      )
+(    Date/Time        : Thu Apr 10 18:36:39 2025                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.23000                                  DARK 
+  CIRCLE     0.25460                                  DARK 
+  CIRCLE     0.27000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.30480                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+  CIRCLE     0.43400                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.58000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.00080                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     5.30100                                  DARK 
+  CIRCLE     6.35000                                  DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  0.30000     x 2.40000      90.000 NO     DARK 
+  RECTANGLE  0.35000     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.25000      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.65000     x 1.65000       0.000 NO     DARK 
+  RECTANGLE  2.14880     x 1.69670       0.000 NO     DARK 
+  RECTANGLE  2.54000     x 1.87960      90.000 NO     DARK 
+
+     ADAPTOR_ver120_TOP.art created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.43400                                  DARK 
+  CIRCLE     0.50000                                  DARK 
+  CIRCLE     0.60960                                  DARK 
+  CIRCLE     1.00080                                  DARK 
+  CIRCLE     1.65000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     5.30100                                  DARK 
+  CIRCLE     6.35000                                  DARK 
+  SQUARE     2.00000                     0.000 NO     DARK 
+  RECTANGLE  1.65000     x 1.65000       0.000 NO     DARK 
+
+     ADAPTOR_ver120_BOTTOM.art created.
+
+
+================================================================
+     PROCESSING FILM < SILK_TOP >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_SILK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Arc segment with end points of
+	(29.28, 48.18) and (29.26 47.49) converted to a line.
+	Its center location (149.15 43.85) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(53.58, 50.11) and (53.57 50.86) converted to a line.
+	Its center location (188.65 51.38) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(53.57, 51.51) and (53.58 52.08) converted to a line.
+	Its center location (322.99 49.43) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(60.09, 53.93) and (61.01 53.93) converted to a line.
+	Its center location (60.95 -94.47) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(71.00, 51.03) and (71.00 52.14) converted to a line.
+	Its center location (366.12 52.92) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(71.00, 52.14) and (71.00 53.08) converted to a line.
+	Its center location (227.92 52.19) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.24990                                  DARK 
+  CIRCLE     0.25000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     ADAPTOR_ver120_SILK_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILK_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_SILK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: Arc segment with end points of
+	(17.90, 72.83) and (17.90 73.94) converted to a line.
+	Its center location (-277.22 74.72) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(17.90, 73.94) and (17.90 74.88) converted to a line.
+	Its center location (-139.02 73.99) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(28.81, 75.73) and (27.89 75.73) converted to a line.
+	Its center location (27.95 -72.67) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(35.32, 71.91) and (35.33 72.66) converted to a line.
+	Its center location (-99.75 73.18) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(35.33, 73.31) and (35.32 73.88) converted to a line.
+	Its center location (-234.09 71.23) is too large for
+	specified integer accuracy of 2 places.
+
+    WARNING: Arc segment with end points of
+	(59.62, 69.98) and (59.64 69.29) converted to a line.
+	Its center location (-60.25 65.65) is too large for
+	specified integer accuracy of 2 places.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     ADAPTOR_ver120_SILK_BOTTOM.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < SMASK_TOP >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_SMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.25460                                  DARK 
+  CIRCLE     0.27000                                  DARK 
+  CIRCLE     0.60160                                  DARK 
+  CIRCLE     1.15060                                  DARK 
+  CIRCLE     1.85000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  CIRCLE     5.50000                                  DARK 
+  CIRCLE     6.55000                                  DARK 
+  SQUARE     2.40000                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 2.40000      90.000 NO     DARK 
+  RECTANGLE  0.40160     x 0.55160      90.000 NO     DARK 
+  RECTANGLE  0.45000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.25000      90.000 NO     DARK 
+  RECTANGLE  1.04140     x 0.96520       0.000 NO     DARK 
+  RECTANGLE  1.04140     x 0.96520      90.000 NO     DARK 
+  RECTANGLE  1.85000     x 1.85000       0.000 NO     DARK 
+  RECTANGLE  2.25040     x 1.79580       0.000 NO     DARK 
+  RECTANGLE  2.54000     x 1.87960      90.000 NO     DARK 
+
+     ADAPTOR_ver120_SMASK_TOP.art created.
+
+
+================================================================
+     PROCESSING FILM < SMASK_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_SMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.60160                                  DARK 
+  CIRCLE     1.15060                                  DARK 
+  CIRCLE     1.85000                                  DARK 
+  CIRCLE     2.40000                                  DARK 
+  CIRCLE     5.50000                                  DARK 
+  CIRCLE     6.55000                                  DARK 
+  SQUARE     2.40000                     0.000 NO     DARK 
+  RECTANGLE  1.85000     x 1.85000       0.000 NO     DARK 
+
+     ADAPTOR_ver120_SMASK_BOTTOM.art created.
+
+
+================================================================
+     PROCESSING FILM < PASTE_TOP >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_PASTE_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.02540                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  SQUARE     0.02540                     0.000 NO     DARK 
+  RECTANGLE  0.30000     x 0.45000      90.000 NO     DARK 
+  RECTANGLE  0.45000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  0.60000     x 0.25000      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  2.14880     x 1.69670       0.000 NO     DARK 
+  RECTANGLE  2.54000     x 1.87960      90.000 NO     DARK 
+
+     ADAPTOR_ver120_PASTE_TOP.art created.
+
+
+================================================================
+     PROCESSING FILM < PASTE_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_PASTE_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+
+     ADAPTOR_ver120_PASTE_BOTTOM.art created.
+
+
+================================================================
+     PROCESSING FILM < ASSY_TOP >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_ASSY_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1016
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (21.0935 20.2429)
+           ... using undefined line width of 0.1016
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1016
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.10160                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.24990                                  DARK 
+
+     ADAPTOR_ver120_ASSY_TOP.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < ASSY_BOTTOM >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_ASSY_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1016
+  Mirror code                         X
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10160                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20320                                  DARK 
+
+     ADAPTOR_ver120_ASSY_BOTTOM.art created.
+
+
+================================================================
+     PROCESSING FILM < FAB >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_FAB.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+
+     ADAPTOR_ver120_FAB.art created.
+
+
+================================================================
+     PROCESSING FILM < PANEL >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_PANEL.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1270
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+
+     ADAPTOR_ver120_PANEL.art created.
+
+
+================================================================
+     PROCESSING FILM < INNER1_GND >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_INNER1_GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (0.0000 1.0000)
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     ADAPTOR_ver120_INNER1_GND.art created with warnings
+
+
+================================================================
+     PROCESSING FILM < INNER2_POWER >
+     TO FILE < D:/0_Working/1_Hardware/44_Adaptor_V111/NANORACK_V2_ADAPTOR_1.1.1_HW/2_Layout/ADAPTOR_ver120_INNER2_POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.0000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     ADAPTOR_ver120_INNER2_POWER.art created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        ADAPTOR_ver120_TOP.art created.
+        ADAPTOR_ver120_BOTTOM.art created.
+        ADAPTOR_ver120_SILK_TOP.art created with warnings
+        ADAPTOR_ver120_SILK_BOTTOM.art created with warnings
+        ADAPTOR_ver120_SMASK_TOP.art created.
+        ADAPTOR_ver120_SMASK_BOTTOM.art created.
+        ADAPTOR_ver120_PASTE_TOP.art created.
+        ADAPTOR_ver120_PASTE_BOTTOM.art created.
+        ADAPTOR_ver120_ASSY_TOP.art created with warnings
+        ADAPTOR_ver120_ASSY_BOTTOM.art created.
+        ADAPTOR_ver120_FAB.art created.
+        ADAPTOR_ver120_PANEL.art created.
+        ADAPTOR_ver120_INNER1_GND.art created with warnings
+        ADAPTOR_ver120_INNER2_POWER.art created with warnings
+
+ ARTWORK had warnings
